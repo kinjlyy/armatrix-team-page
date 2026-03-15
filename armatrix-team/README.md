@@ -1,7 +1,7 @@
 # Armatrix Team Page
 
 A full-stack internship assignment — a polished, production-grade **Team Page** for Armatrix, built with Next.js, FastAPI, and Framer Motion.
-
+Use admin tab for CRUD operations
 ---
 
 ## Live Preview
